@@ -1,12 +1,6 @@
 #Appveyor msbuild response file
 
-# No Banner
-#/nologo
-# We just want errors displayed
-/ConsoleLoggerParameters:Summary;Verbosity=detailed
-# Log to a file and set options
-#/filelogger
-#/fileloggerparameters:Verbosity=detailed
-#/bl
+/ConsoleLoggerParameters:Summary;Verbosity=normal
+
 # uncomment below to also include paramaters from @additionalswitches.rsp
 # @additionalswitches.rsp
