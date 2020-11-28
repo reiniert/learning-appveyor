@@ -25,5 +25,6 @@
     <Message Text="MSBuildThisFileFullPath: $(MSBuildThisFileFullPath)" />
     <Message Text="MSBuildThisFileName: $(MSBuildThisFileName)" />
     <Message Text="MSBuildOverrideTasksPath: $(MSBuildOverrideTasksPath)" />
+    <Message Text="VisualStudioVersion: $(VisualStudioVersion)" />
   </Target>
 </Project>
