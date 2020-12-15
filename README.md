@@ -1,2 +1,3 @@
 # learning-appveyor
 Please ignore this repo, it is for experimental purposes only...
+Testing the use of GitKraken to create branches, pull requests etc.
